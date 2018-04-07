@@ -36,7 +36,7 @@ int main()
         printf("\nx2 = %5.2f", x2);
         }
         else{
-        printf("\nNão existem raízes reais");
+        printf("\nNão tem número existente sem 'i'");
         }
     }
 }
