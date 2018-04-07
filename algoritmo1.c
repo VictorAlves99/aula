@@ -31,7 +31,6 @@ int main()
         if(delta>0){
         x1=(-b+sqrt(delta))/(2*a);
         x2=(-b-sqrt(delta))/(2*a);
-        printf("\nSuas raízes são:  ");
         printf("\nx1 = %5.2f", x1);
         printf("\nx2 = %5.2f", x2);
         }
